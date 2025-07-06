@@ -85,6 +85,6 @@ This project aimed to:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/business-statistics-health-analytics.git
+   git clone https://github.com/aarushidhaka/Business-Statistics-Project-2.git
 2. Open 5646570.Rmd in RStudio.
 3. Knit the RMarkdown file to HTML or PDF to view results.
